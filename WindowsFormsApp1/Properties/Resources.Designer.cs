@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace WindowsFormsApp1.Properties
+namespace HW_01_button_drawing.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.

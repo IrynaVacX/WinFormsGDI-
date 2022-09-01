@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{47CC0112-60FB-482B-AF1D-06D69E773C62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW-01_button_drawing", "HW-01_button_drawing.csproj", "{47CC0112-60FB-482B-AF1D-06D69E773C62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

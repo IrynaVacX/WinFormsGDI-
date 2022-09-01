@@ -1,0 +1,9 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\obj\Debug\HW_01_button_drawing.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\obj\Debug\HW-01_button_drawing.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\obj\Debug\HW-01_button_drawing.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

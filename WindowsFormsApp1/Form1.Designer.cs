@@ -1,5 +1,5 @@
 ﻿
-namespace WindowsFormsApp1
+namespace HW_01_button_drawing
 {
     partial class Form1
     {
@@ -39,6 +39,7 @@ namespace WindowsFormsApp1
             this.Name = "Form1";
             this.Text = "Form1";
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseUp);
             this.ResumeLayout(false);
 
