@@ -18,6 +18,7 @@ namespace HW_01_button_drawing
         private int y;
         private int Width;
         private int Height;
+        private Random rand = new Random();
         public Form1()
         {
             InitializeComponent();
@@ -69,6 +70,9 @@ namespace HW_01_button_drawing
                     newBut.Size = new Size(Width, Height);
                     newBut.Name = "Button" + index;
                     newBut.Text = "Button" + index++;
+                    newBut.FlatStyle = FlatStyle.Popup;
+                    newBut.BackColor = Color.FromArgb(rand.Next(0, 255), rand.Next(0, 255), rand.Next(0, 255));
+                    newBut.ForeColor = Color.FromArgb(newBut.BackColor.R/3, newBut.BackColor.G / 3, newBut.BackColor.B / 3);
                     Controls.Add(newBut);
                 }
                 else
