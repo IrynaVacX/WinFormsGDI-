@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\bin\Debug\CW-02.2_TimerWork.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\bin\Debug\CW-02.2_TimerWork.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\bin\Debug\CW-02.2_TimerWork.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\obj\Debug\CW-02.2_TimerWork.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\obj\Debug\CW_02._2_TimerWork.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\obj\Debug\CW_02._2_TimerWork.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\obj\Debug\CW-02.2_TimerWork.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\obj\Debug\CW-02.2_TimerWork.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\obj\Debug\CW-02.2_TimerWork.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.2_TimerWork\obj\Debug\CW-02.2_TimerWork.pdb
