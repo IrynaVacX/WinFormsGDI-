@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\bin\Debug\CW-02_KeyWinMove_awsd.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\bin\Debug\CW-02_KeyWinMove_awsd.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\bin\Debug\CW-02_KeyWinMove_awsd.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\obj\Debug\CW-02_KeyWinMove_awsd.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\obj\Debug\CW_02_KeyWinMove_awsd.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\obj\Debug\CW_02_KeyWinMove_awsd.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\obj\Debug\CW-02_KeyWinMove_awsd.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\obj\Debug\CW-02_KeyWinMove_awsd.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\obj\Debug\CW-02_KeyWinMove_awsd.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02_KeyWinMove_awsd\obj\Debug\CW-02_KeyWinMove_awsd.pdb
