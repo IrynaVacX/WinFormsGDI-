@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\bin\Debug\CW-02.3_Button_Array.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\bin\Debug\CW-02.3_Button_Array.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\bin\Debug\CW-02.3_Button_Array.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\obj\Debug\CW-02.3_Button_Array.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\obj\Debug\CW_02._3_Button_Array.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\obj\Debug\CW_02._3_Button_Array.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\obj\Debug\CW-02.3_Button_Array.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\obj\Debug\CW-02.3_Button_Array.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\obj\Debug\CW-02.3_Button_Array.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-02.3_Button_Array\obj\Debug\CW-02.3_Button_Array.pdb
