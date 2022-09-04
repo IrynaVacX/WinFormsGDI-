@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\bin\Debug\HW-02_Maze.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\bin\Debug\HW-02_Maze.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\bin\Debug\HW-02_Maze.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\obj\Debug\HW-02_Maze.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\obj\Debug\HW_02_Maze.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\obj\Debug\HW_02_Maze.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\obj\Debug\HW-02_Maze.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\obj\Debug\HW-02_Maze.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\obj\Debug\HW-02_Maze.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-02_Maze\obj\Debug\HW-02_Maze.pdb
