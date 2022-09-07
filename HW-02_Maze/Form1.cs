@@ -15,16 +15,18 @@ namespace HW_02_Maze
     {
         private PictureBox pers;
         private Labirint l;
+        MenuStrip ms;
+        private int scoreMedal = 0;
+        private int hearts = 5;
         public Form1()
         {
             InitializeComponent();
             Options();
             StartGame();
+            AddMenuStripDinamic();
         }
         public void Options()
         {
-            Text = "Maze";
-
             BackColor = Color.FromArgb(255, 92, 118, 137);
 
             int sizeX = 40;
@@ -39,7 +41,14 @@ namespace HW_02_Maze
             l = new Labirint(this, 40, 20);
             l.Show();
             pers = new PictureBox();
-            pers = l.images[2, 0];
+            pers = l.images[l.smileY, l.smileX];
+            //add ms for score <<=- (!)
+        }
+        private void AddMenuStripDinamic()
+        {
+            menuStrip1.BackColor = Color.FromArgb(255, 92, 118, 137);
+            ms = menuStrip1;
+            this.Height += 27;
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
@@ -67,6 +76,7 @@ namespace HW_02_Maze
                 }
             }
         }
+
         private bool CheckMove(int x, int y)
         {
             x /= 16;
@@ -79,12 +89,20 @@ namespace HW_02_Maze
                 }
                 else if (l.maze[y, x].type == MazeObject.MazeObjectType.ENEMY)
                 {
+                    hearts--;
+                    tsmi_Hearts.Text = "";
+                    for (int i = 0; i < hearts; i++)
+                        tsmi_Hearts.Text += "❤";
                     // -=<< change func GO na Heart-- and then GO >>=- //
-                    GameOver();
+                    if (hearts == 0)
+                        GameOver();
                 }
                 else if (l.maze[y, x].type == MazeObject.MazeObjectType.MEDAL)
                 {
-                    // -=<< func get medal++ >>=- //
+                    l.maze[y, x].type = MazeObject.MazeObjectType.HALL;
+                    l.images[y, x].BackgroundImage = new Bitmap(@"C:\1\hall.png");
+                    tsmi_Medals.Text = $"> > {++scoreMedal}*★ < <";
+                    return true;
                 }
                 else if (x == l.width - 1 && y == l.height - 3)
                 {

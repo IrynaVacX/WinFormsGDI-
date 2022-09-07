@@ -6,6 +6,9 @@ namespace HW_02_Maze
 {
     class Labirint
     {
+        public int smileX = 0;
+        public int smileY = 2;
+
         public int height;
         public int width;
 
@@ -40,9 +43,6 @@ namespace HW_02_Maze
 
         private void Generate()
         {
-            int smileX = 0;
-            int smileY = 2;
-
             for (int y = 0; y < height; y++)
             {
                 for (int x = 0; x < width; x++)
