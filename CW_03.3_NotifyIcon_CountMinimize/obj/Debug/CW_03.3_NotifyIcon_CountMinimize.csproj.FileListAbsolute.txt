@@ -1,0 +1,9 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\bin\Debug\CW_03.3_NotifyIcon_CountMinimize.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\bin\Debug\CW_03.3_NotifyIcon_CountMinimize.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\bin\Debug\CW_03.3_NotifyIcon_CountMinimize.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\obj\Debug\CW_03._3_NotifyIcon_CountMinimize.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\obj\Debug\CW_03._3_NotifyIcon_CountMinimize.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\obj\Debug\CW_03.3_NotifyIcon_CountMinimize.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\obj\Debug\CW_03.3_NotifyIcon_CountMinimize.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\obj\Debug\CW_03.3_NotifyIcon_CountMinimize.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW_03.3_NotifyIcon_CountMinimize\obj\Debug\CW_03.3_NotifyIcon_CountMinimize.pdb
