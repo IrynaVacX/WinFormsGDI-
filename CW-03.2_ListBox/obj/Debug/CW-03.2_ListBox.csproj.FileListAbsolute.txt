@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\bin\Debug\CW-03.2_ListBox.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\bin\Debug\CW-03.2_ListBox.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\bin\Debug\CW-03.2_ListBox.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\obj\Debug\CW-03.2_ListBox.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\obj\Debug\CW_03._2_ListBox.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\obj\Debug\CW_03._2_ListBox.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\obj\Debug\CW-03.2_ListBox.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\obj\Debug\CW-03.2_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\obj\Debug\CW-03.2_ListBox.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-03.2_ListBox\obj\Debug\CW-03.2_ListBox.pdb

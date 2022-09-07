@@ -15,9 +15,9 @@ namespace HW_02_Maze
     {
         private PictureBox pers;
         private Labirint l;
-        MenuStrip ms;
-        private int scoreMedal = 0;
-        private int hearts = 5;
+        StatusStrip status;
+        private int scoreMedal;
+        private int hearts;
         public Form1()
         {
             InitializeComponent();
@@ -35,6 +35,9 @@ namespace HW_02_Maze
             Width = sizeX * 16 + 16;
             Height = sizeY * 16 + 40;
             StartPosition = FormStartPosition.CenterScreen;
+
+            scoreMedal = 0;
+            hearts = 5;
         }
         public void StartGame()
         {
@@ -42,12 +45,13 @@ namespace HW_02_Maze
             l.Show();
             pers = new PictureBox();
             pers = l.images[l.smileY, l.smileX];
-            //add ms for score <<=- (!)
+            l.parent.Controls.Add(status);
+            //add status for score <<=- (!)
         }
         private void AddMenuStripDinamic()
         {
-            menuStrip1.BackColor = Color.FromArgb(255, 92, 118, 137);
-            ms = menuStrip1;
+            statusStrip1.BackColor = Color.FromArgb(255, 92, 118, 137);
+            status = statusStrip1;
             this.Height += 27;
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -89,11 +93,12 @@ namespace HW_02_Maze
                 }
                 else if (l.maze[y, x].type == MazeObject.MazeObjectType.ENEMY)
                 {
+                    l.maze[y, x].type = MazeObject.MazeObjectType.HALL;
+                    l.images[y, x].BackgroundImage = new Bitmap(@"C:\1\hall.png");
                     hearts--;
-                    tsmi_Hearts.Text = "";
+                    status_Hearts.Text = "";
                     for (int i = 0; i < hearts; i++)
-                        tsmi_Hearts.Text += "❤";
-                    // -=<< change func GO na Heart-- and then GO >>=- //
+                        status_Hearts.Text += "❤";
                     if (hearts == 0)
                         GameOver();
                 }
@@ -101,7 +106,7 @@ namespace HW_02_Maze
                 {
                     l.maze[y, x].type = MazeObject.MazeObjectType.HALL;
                     l.images[y, x].BackgroundImage = new Bitmap(@"C:\1\hall.png");
-                    tsmi_Medals.Text = $"> > {++scoreMedal}*★ < <";
+                    status_Medals.Text = $" > > {++scoreMedal}*★ < <";
                     return true;
                 }
                 else if (x == l.width - 1 && y == l.height - 3)
