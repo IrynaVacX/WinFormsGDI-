@@ -5,13 +5,14 @@ namespace HW_02_Maze
 {
     class MazeObject
     {
-        public enum MazeObjectType { HALL, WALL, MEDAL, ENEMY, CHAR };
+        public enum MazeObjectType { HALL, WALL, MEDAL, ENEMY, CHAR, HEAL };
 
         public Bitmap[] images = {new Bitmap(@"C:\1\hall.png"),
             new Bitmap(@"C:\1\wall.png"),
             new Bitmap(@"C:\1\medal.png"),
             new Bitmap(@"C:\1\enemy.png"),
-            new Bitmap(@"C:\1\player.png")};
+            new Bitmap(@"C:\1\player.png"),
+            new Bitmap(@"C:\1\heal.png")};
 
         public MazeObjectType type;
         public int width;

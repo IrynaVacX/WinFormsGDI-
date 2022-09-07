@@ -53,13 +53,17 @@ namespace HW_02_Maze
                     if (r.Next(5) == 0)
                         current = MazeObject.MazeObjectType.WALL;
 
-                    // в 1 случае из 250 - кладём денежку
-                    if (r.Next(250) == 0)
+                    // в 1 случае из 200 - кладём денежку
+                    if (r.Next(200) == 0)
                         current = MazeObject.MazeObjectType.MEDAL;
 
-                    // в 1 случае из 250 - размещаем врага
-                    if (r.Next(250) == 0)
+                    // в 1 случае из 100 - размещаем врага
+                    if (r.Next(100) == 0)
                         current = MazeObject.MazeObjectType.ENEMY;
+
+                    // в 1 случае из 500 - размещаем хилки
+                    if (r.Next(500) == 0)
+                        current = MazeObject.MazeObjectType.HEAL;
 
                     // стены по периметру обязательны
                     if (y == 0 || x == 0 || y == height - 1 | x == width - 1)
