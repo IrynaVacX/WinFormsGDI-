@@ -1,0 +1,11 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\bin\Debug\CW-04.1_CreateNewForms.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\bin\Debug\CW-04.1_CreateNewForms.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\bin\Debug\CW-04.1_CreateNewForms.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW-04.1_CreateNewForms.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW_04._1_CreateNewForms.Child.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW_04._1_CreateNewForms.Parent.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW_04._1_CreateNewForms.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW-04.1_CreateNewForms.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW-04.1_CreateNewForms.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW-04.1_CreateNewForms.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.1_CreateNewForms\obj\Debug\CW-04.1_CreateNewForms.pdb
