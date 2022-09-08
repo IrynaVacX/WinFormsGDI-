@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\bin\Debug\CW-04.3_Menushka.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\bin\Debug\CW-04.3_Menushka.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\bin\Debug\CW-04.3_Menushka.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\obj\Debug\CW-04.3_Menushka.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\obj\Debug\CW_04._3_Menushka.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\obj\Debug\CW_04._3_Menushka.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\obj\Debug\CW-04.3_Menushka.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\obj\Debug\CW-04.3_Menushka.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\obj\Debug\CW-04.3_Menushka.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.3_Menushka\obj\Debug\CW-04.3_Menushka.pdb

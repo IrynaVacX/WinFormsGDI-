@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\bin\Debug\CW-04.2_ColorDialogForm.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\bin\Debug\CW-04.2_ColorDialogForm.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\bin\Debug\CW-04.2_ColorDialogForm.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\obj\Debug\CW-04.2_ColorDialogForm.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\obj\Debug\CW_04._2_ColorDialogForm.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\obj\Debug\CW_04._2_ColorDialogForm.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\obj\Debug\CW-04.2_ColorDialogForm.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\obj\Debug\CW-04.2_ColorDialogForm.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\obj\Debug\CW-04.2_ColorDialogForm.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-04.2_ColorDialogForm\obj\Debug\CW-04.2_ColorDialogForm.pdb
