@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\bin\Debug\HW-03_Resources.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\bin\Debug\HW-03_Resources.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\bin\Debug\HW-03_Resources.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\obj\Debug\HW-03_Resources.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\obj\Debug\HW_03_Resources.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\obj\Debug\HW_03_Resources.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\obj\Debug\HW-03_Resources.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\obj\Debug\HW-03_Resources.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\obj\Debug\HW-03_Resources.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\HW-03_Resources\obj\Debug\HW-03_Resources.pdb
