@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\bin\Debug\CW-05.3_DesktopWallpaper.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\bin\Debug\CW-05.3_DesktopWallpaper.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\bin\Debug\CW-05.3_DesktopWallpaper.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\obj\Debug\CW-05.3_DesktopWallpaper.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\obj\Debug\CW_05._3_DesktopWallpaper.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\obj\Debug\CW_05._3_DesktopWallpaper.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\obj\Debug\CW-05.3_DesktopWallpaper.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\obj\Debug\CW-05.3_DesktopWallpaper.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\obj\Debug\CW-05.3_DesktopWallpaper.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.3_DesktopWallpaper\obj\Debug\CW-05.3_DesktopWallpaper.pdb
