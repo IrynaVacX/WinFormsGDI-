@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\bin\Debug\CW-05.1_RichTextBox.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\bin\Debug\CW-05.1_RichTextBox.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\bin\Debug\CW-05.1_RichTextBox.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\obj\Debug\CW-05.1_RichTextBox.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\obj\Debug\CW_05._1_RichTextBox.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\obj\Debug\CW_05._1_RichTextBox.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\obj\Debug\CW-05.1_RichTextBox.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\obj\Debug\CW-05.1_RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\obj\Debug\CW-05.1_RichTextBox.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.1_RichTextBox\obj\Debug\CW-05.1_RichTextBox.pdb

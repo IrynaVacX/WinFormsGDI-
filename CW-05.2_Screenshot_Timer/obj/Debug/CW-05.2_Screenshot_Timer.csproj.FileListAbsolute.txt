@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\bin\Debug\CW-05.2_Screenshot_Timer.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\bin\Debug\CW-05.2_Screenshot_Timer.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\bin\Debug\CW-05.2_Screenshot_Timer.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\obj\Debug\CW-05.2_Screenshot_Timer.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\obj\Debug\CW_05._2_Screenshot_Timer.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\obj\Debug\CW_05._2_Screenshot_Timer.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\obj\Debug\CW-05.2_Screenshot_Timer.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\obj\Debug\CW-05.2_Screenshot_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\obj\Debug\CW-05.2_Screenshot_Timer.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-05.2_Screenshot_Timer\obj\Debug\CW-05.2_Screenshot_Timer.pdb
