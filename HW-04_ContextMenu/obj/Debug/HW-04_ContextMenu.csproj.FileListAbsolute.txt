@@ -1,0 +1,10 @@
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\bin\Debug\HW-04_ContextMenu.exe.config
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\bin\Debug\HW-04_ContextMenu.exe
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\bin\Debug\HW-04_ContextMenu.pdb
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\obj\Debug\HW-04_ContextMenu.csproj.AssemblyReference.cache
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\obj\Debug\HW_04_ContextMenu.Form1.resources
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\obj\Debug\HW_04_ContextMenu.Properties.Resources.resources
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\obj\Debug\HW-04_ContextMenu.csproj.GenerateResource.cache
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\obj\Debug\HW-04_ContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\obj\Debug\HW-04_ContextMenu.exe
+C:\Users\Александр\Source\Repos\IrynaVacX\WinFormsGDI-\HW-04_ContextMenu\obj\Debug\HW-04_ContextMenu.pdb
