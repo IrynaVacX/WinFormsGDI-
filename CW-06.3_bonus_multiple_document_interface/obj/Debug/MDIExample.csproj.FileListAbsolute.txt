@@ -1,0 +1,42 @@
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\bin\Debug\MDIExample.exe
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\bin\Debug\MDIExample.pdb
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\MDIExample.AboutForm.resources
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\MDIExample.ContentForm.resources
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\MDIExample.MainMDIContainerForm.resources
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\MDIExample.Properties.Resources.resources
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\MDIExample.csproj.GenerateResource.Cache
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\MDIExample.exe
+C:\Учебный процесс\C#\Windows Forms\Уроки по Windows Forms\Урок №6\Sources\Example\obj\Debug\MDIExample.pdb
+C:\Users\armin\Desktop\Example\obj\Debug\MDIExample.exe
+C:\Users\armin\Desktop\Example\obj\Debug\MDIExample.pdb
+C:\Users\armin\Desktop\Example\bin\Debug\MDIExample.exe
+C:\Users\armin\Desktop\Example\bin\Debug\MDIExample.pdb
+C:\Users\armin\Desktop\Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\armin\Desktop\Example\obj\Debug\MDIExample.AboutForm.resources
+C:\Users\armin\Desktop\Example\obj\Debug\MDIExample.ContentForm.resources
+C:\Users\armin\Desktop\Example\obj\Debug\MDIExample.MainMDIContainerForm.resources
+C:\Users\armin\Desktop\Example\obj\Debug\MDIExample.Properties.Resources.resources
+C:\Users\armin\Desktop\Example\obj\Debug\ResGen.read.1.tlog
+C:\Users\armin\Desktop\Example\obj\Debug\ResGen.write.1.tlog
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.exe
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.pdb
+C:\Users\armin\Desktop\1. mdi example\bin\Debug\MDIExample.exe
+C:\Users\armin\Desktop\1. mdi example\bin\Debug\MDIExample.pdb
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.csprojResolveAssemblyReference.cache
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.AboutForm.resources
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.ContentForm.resources
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.MainMDIContainerForm.resources
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.Properties.Resources.resources
+C:\Users\armin\Desktop\1. mdi example\obj\Debug\MDIExample.csproj.GenerateResource.Cache
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\bin\Debug\MDIExample.exe
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\bin\Debug\MDIExample.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.AboutForm.resources
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.ContentForm.resources
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.MainMDIContainerForm.resources
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.Properties.Resources.resources
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.csproj.GenerateResource.cache
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.exe
+C:\Users\Александр\OneDrive\Рабочий стол\1. multiple document interface\obj\Debug\MDIExample.pdb
