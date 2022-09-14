@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\bin\Debug\CW-06.2_TreeView.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\bin\Debug\CW-06.2_TreeView.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\bin\Debug\CW-06.2_TreeView.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\obj\Debug\CW-06.2_TreeView.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\obj\Debug\CW_06._2_TreeView.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\obj\Debug\CW_06._2_TreeView.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\obj\Debug\CW-06.2_TreeView.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\obj\Debug\CW-06.2_TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\obj\Debug\CW-06.2_TreeView.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.2_TreeView\obj\Debug\CW-06.2_TreeView.pdb
