@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\bin\Debug\CW-06.1_ListView.exe.config
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\bin\Debug\CW-06.1_ListView.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\bin\Debug\CW-06.1_ListView.pdb
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\obj\Debug\CW-06.1_ListView.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\obj\Debug\CW_06._1_ListView.Form1.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\obj\Debug\CW_06._1_ListView.Properties.Resources.resources
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\obj\Debug\CW-06.1_ListView.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\obj\Debug\CW-06.1_ListView.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\obj\Debug\CW-06.1_ListView.exe
+C:\Users\Александр\source\repos\IrynaVacX\WinFormsGDI-\CW-06.1_ListView\obj\Debug\CW-06.1_ListView.pdb

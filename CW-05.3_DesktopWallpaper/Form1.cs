@@ -11,7 +11,7 @@ namespace CW_05._3_DesktopWallpaper
         [DllImport("user32.dll", CharSet = CharSet.Auto)]
         static extern int SystemParametersInfo(int uAction, int uParam, string lpvParam, int fuWinIni);
 
-        private string[] dirs = Directory.GetFiles("pics/");
+        private string[] dirs = Directory.GetFiles("C:/pics/");
         private int i = 0;
         public Form1()
         {
